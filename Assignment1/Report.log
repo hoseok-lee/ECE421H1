@@ -1,0 +1,329 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.6)  7 FEB 2022 03:37
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Report.tex
+(./Report.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18>
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks15
+\labelindent=\skip49
+\enit@outerparindent=\dimen139
+\enit@toks=\toks16
+\enit@inbox=\box47
+\enit@count@id=\count187
+\enitdp@description=\count188
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.sty
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\lst@mode=\count189
+\lst@gtempboxa=\box48
+\lst@token=\toks18
+\lst@length=\count190
+\lst@currlwidth=\dimen140
+\lst@column=\count191
+\lst@pos=\count192
+\lst@lostspace=\dimen141
+\lst@width=\dimen142
+\lst@newlines=\count193
+\lst@lineno=\count194
+\lst@maxwidth=\dimen143
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count195
+\lst@skipnumbers=\count196
+\lst@framebox=\box49
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count197
+\float@exts=\toks19
+\float@box=\box50
+\@float@everytoks=\toks20
+\@floatcapt=\box51
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count198
+\l__pdf_internal_box=\box52
+)
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(./Report.aux)
+\openout1 = `Report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+\c@lstlisting=\count199
+
+(/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count266
+\scratchdimen=\dimen146
+\scratchbox=\box53
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen147
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--77
+
+ []
+
+[1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+
+ []
+
+<./Figures//Figure_1.png, id=23, 722.7pt x 289.08pt>
+File: ./Figures//Figure_1.png Graphic file (type png)
+<use ./Figures//Figure_1.png>
+Package pdftex.def Info: ./Figures//Figure_1.png  used on input line 139.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_2.png, id=25, 722.7pt x 289.08pt>
+File: ./Figures//Figure_2.png Graphic file (type png)
+<use ./Figures//Figure_2.png>
+Package pdftex.def Info: ./Figures//Figure_2.png  used on input line 146.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_3.png, id=26, 722.7pt x 289.08pt>
+File: ./Figures//Figure_3.png Graphic file (type png)
+<use ./Figures//Figure_3.png>
+Package pdftex.def Info: ./Figures//Figure_3.png  used on input line 153.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+[3 <./Figures//Figure_1.png> <./Figures//Figure_2.png>]
+<./Figures//Figure_4.png, id=32, 722.7pt x 289.08pt>
+File: ./Figures//Figure_4.png Graphic file (type png)
+<use ./Figures//Figure_4.png>
+Package pdftex.def Info: ./Figures//Figure_4.png  used on input line 164.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_5.png, id=33, 722.7pt x 289.08pt>
+File: ./Figures//Figure_5.png Graphic file (type png)
+<use ./Figures//Figure_5.png>
+Package pdftex.def Info: ./Figures//Figure_5.png  used on input line 171.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+ [4 <./Figures//Figure_3.png> <./Figures//Figure_4.png>]
+<./Figures//Figure_6.png, id=39, 722.7pt x 289.08pt>
+File: ./Figures//Figure_6.png Graphic file (type png)
+<use ./Figures//Figure_6.png>
+Package pdftex.def Info: ./Figures//Figure_6.png  used on input line 178.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+ [5 <./Figures//Figure_5.png> <./Figures//Figure_6.png>] [6]
+<./Figures//Figure_7.png, id=48, 722.7pt x 289.08pt>
+File: ./Figures//Figure_7.png Graphic file (type png)
+<use ./Figures//Figure_7.png>
+Package pdftex.def Info: ./Figures//Figure_7.png  used on input line 272.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+ [7]
+<./Figures//Figure_8.png, id=53, 722.7pt x 289.08pt>
+File: ./Figures//Figure_8.png Graphic file (type png)
+<use ./Figures//Figure_8.png>
+Package pdftex.def Info: ./Figures//Figure_8.png  used on input line 283.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_9.png, id=54, 722.7pt x 289.08pt>
+File: ./Figures//Figure_9.png Graphic file (type png)
+<use ./Figures//Figure_9.png>
+Package pdftex.def Info: ./Figures//Figure_9.png  used on input line 290.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+ [8 <./Figures//Figure_7.png> <./Figures//Figure_8.png>]
+<./Figures//Figure_10.png, id=60, 722.7pt x 289.08pt>
+File: ./Figures//Figure_10.png Graphic file (type png)
+<use ./Figures//Figure_10.png>
+Package pdftex.def Info: ./Figures//Figure_10.png  used on input line 297.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+
+[9 <./Figures//Figure_9.png> <./Figures//Figure_10.png>]
+<./Figures//Figure_11.png, id=66, 722.7pt x 289.08pt>
+File: ./Figures//Figure_11.png Graphic file (type png)
+<use ./Figures//Figure_11.png>
+Package pdftex.def Info: ./Figures//Figure_11.png  used on input line 310.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_12.png, id=67, 722.7pt x 289.08pt>
+File: ./Figures//Figure_12.png Graphic file (type png)
+<use ./Figures//Figure_12.png>
+Package pdftex.def Info: ./Figures//Figure_12.png  used on input line 317.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_13.png, id=68, 722.7pt x 289.08pt>
+File: ./Figures//Figure_13.png Graphic file (type png)
+<use ./Figures//Figure_13.png>
+Package pdftex.def Info: ./Figures//Figure_13.png  used on input line 324.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+ [10 <./Figures//Figure_11.png> <./Figures//Figure_12.png>]
+<./Figures//Figure_14.png, id=74, 722.7pt x 289.08pt>
+File: ./Figures//Figure_14.png Graphic file (type png)
+<use ./Figures//Figure_14.png>
+Package pdftex.def Info: ./Figures//Figure_14.png  used on input line 331.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_15.png, id=75, 722.7pt x 289.08pt>
+File: ./Figures//Figure_15.png Graphic file (type png)
+<use ./Figures//Figure_15.png>
+Package pdftex.def Info: ./Figures//Figure_15.png  used on input line 338.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+<./Figures//Figure_16.png, id=76, 722.7pt x 289.08pt>
+File: ./Figures//Figure_16.png Graphic file (type png)
+<use ./Figures//Figure_16.png>
+Package pdftex.def Info: ./Figures//Figure_16.png  used on input line 345.
+(pdftex.def)             Requested size: 345.0pt x 137.99812pt.
+ [11 <./Figures//Figure_13.png> <./Figures//Figure_14.png> <./Figures//Figure_1
+5.png>] [12 <./Figures//Figure_16.png>]
+(./Report.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3603 strings out of 478994
+ 51733 string characters out of 5858185
+ 599225 words of memory out of 5000000
+ 21099 multiletter control sequences out of 15000+600000
+ 405928 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,6n,74p,940b,1228s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
+/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2
+021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on Report.pdf (12 pages, 812454 bytes).
+PDF statistics:
+ 136 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,83 @@
+// NUMPY
+
+alpha = 0.005
+Training accuracy = 0.9831428571428571
+Validation accuracy = 0.98
+Testing accuracy = 0.9793103448275862
+
+alpha = 0.001
+Training accuracy = 0.978
+Validation accuracy = 0.98
+Testing accuracy = 0.9724137931034482
+
+alpha = 0.0001
+Training accuracy = 0.974
+Validation accuracy = 0.99
+Testing accuracy = 0.9724137931034482
+
+reg = 0.001
+Training accuracy = 0.9831428571428571
+Validation accuracy = 0.98
+Testing accuracy = 0.9793103448275862
+
+reg = 0.1
+Training accuracy = 0.9808571428571429
+Validation accuracy = 0.98
+Testing accuracy = 0.9793103448275862
+
+reg = 0.5
+Training accuracy = 0.9774285714285714
+Validation accuracy = 0.98
+Testing accuracy = 0.9793103448275862
+
+// TENSORFLOW
+
+batch_size = 500
+Training accuracy = 0.8079193830490112
+Validation accuracy = 0.8079214096069336
+Testing accuracy = 0.8079261183738708
+
+batch_size = 100
+Training accuracy = 0.8963133692741394
+Validation accuracy = 0.8963146805763245
+Testing accuracy = 0.8963174819946289
+
+batch_size = 700
+Training accuracy = 0.756671667098999
+Validation accuracy = 0.756674587726593
+Testing accuracy = 0.7566810846328735
+
+batch_size = 1750
+Training accuracy = 0.6702460646629333
+Validation accuracy = 0.6702492237091064
+Testing accuracy = 0.6702574491500854
+
+beta1 = 0.95
+Training accuracy = 0.8090126514434814
+Validation accuracy = 0.8090158700942993
+Testing accuracy = 0.8090205192565918
+
+beta1 = 0.99
+Training accuracy = 0.8574911952018738
+Validation accuracy = 0.8574928641319275
+Testing accuracy = 0.857495903968811
+
+beta2 = 0.99
+Training accuracy = 0.8314250707626343
+Validation accuracy = 0.8314293622970581
+Testing accuracy = 0.831436276435852
+
+beta2 = 0.9999
+Training accuracy = 0.7716445326805115
+Validation accuracy = 0.7716467976570129
+Testing accuracy = 0.7716532349586487
+
+epsilon = 1e-9
+Training accuracy = 0.7923826575279236
+Validation accuracy = 0.792386531829834
+Testing accuracy = 0.7923920750617981
+
+epsilon = 1e-4
+Training accuracy = 0.7964966893196106
+Validation accuracy = 0.7964991927146912
+Testing accuracy = 0.7965041399002075
