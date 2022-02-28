@@ -62,7 +62,6 @@ def accuracy(w, b, x, y):
     return np.count_nonzero((y_hat > 0.5) == y) / N
 
 def grad_descent(w, b, X, Y, alpha, epochs, reg, error_tol):
-
     # Unpack data
     train_x, valid_x, test_x = X
     train_y, valid_y, test_y = Y
