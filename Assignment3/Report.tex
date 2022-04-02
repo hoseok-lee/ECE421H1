@@ -190,7 +190,7 @@ def log_gauss_pdf(X, mu, sigma):
 \end{align*}
 
 \noindent
-Comparing equation \ref{eqn:2} and \ref{eqn:3}, equation \ref{eqn:2} may seem like the better choice as it is simpler. In terms of mathematical computation, however, equation \ref{eqn:3} maximizes the amount of computational overlap for $\log P(\textbf{x} | z = k)$ and $\log \pi_k$ by converting the probability within the summation into its logarithmic form. This allows reuse of logarithmic Gaussian probability density function in section \ref{log_gauss_pdf} in conjunction with \texttt{reduce\_sumlogexp()}, which applies a logarithm after the summation of exponents: $\log \sum e^{x}$. Calculating either equation with \texttt{tf.reduce\_sum()} would require the calculation of $P(\textbf{x} | z = j)$ or cost additional work. 
+Comparing equation \ref{eqn:2} and \ref{eqn:3}, equation \ref{eqn:2} may seem like the better choice as it is simpler. In terms of mathematical computation, however, equation \ref{eqn:3} maximizes the amount of computational overlap for $\log P(\textbf{x} | z = k)$ and $\log \pi_k$ by converting the probability within the summation into its logarithmic form. This allows the reuse of the logarithmic Gaussian probability density function in section \ref{log_gauss_pdf} in conjunction with \texttt{reduce\_sumlogexp()}, which applies a logarithm after the summation of exponents: $\log \sum e^{x}$. Calculating either equation with \texttt{tf.reduce\_sum()} would require the calculation of $P(\textbf{x} | z = j)$ or cost additional work. 
 
 \begin{lstlisting}
 def log_posterior(log_PDF, log_pi):
@@ -276,7 +276,7 @@ def log_posterior(log_PDF, log_pi):
 
 The cluster-loss issue with the K-means algorithm does not apply here. While K-means attempts to utilize every cluster to minimize the total loss, the expectation-maximization algorithm will ``disregard'' some clusters if they do not provide a large enough posterior probability of membership. 
 
-Noticeable from figure \ref{fig:plot10} onwards, as $K \ge 3$, the validation loss has a negligible increase as more clusters are added. The new cluster in figure \ref{fig:plot11} has a $0.01\%$ data point membership, while the fifth cluster in figure \ref{fig:plot12} is completely unused. This indicates that it is most probable that there are a total of $3$ Gaussian clusters in the model, and attempting to include more clusters than $3$ will yield diminishing returns. Figure \ref{fig:plot10} will have the minimum theoretical validation loss, and thus the optimal number of clusters is $K = 3$.
+Noticeable from figure \ref{fig:plot10} onwards, as $K \ge 3$, the validation loss has a negligible increase as more clusters are added. The new cluster in figure \ref{fig:plot11} has a $0.04\%$ data point membership, while the fifth cluster in figure \ref{fig:plot12} is completely unused. This indicates that it is most probable that there are a total of $3$ Gaussian clusters in the model, and attempting to include more clusters than $3$ will yield diminishing returns. Figure \ref{fig:plot10} will have the minimum theoretical validation loss, and thus the optimal number of clusters is $K = 3$.
 
 \subsection{\texttt{data100D.npy} Dataset (K-means vs. MoG Learning)}
 
